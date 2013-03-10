@@ -2,6 +2,8 @@ WiredAtmos
 ==========
 
 A sample project for how to set up Atmos when running an Akka based system.
+Please note that you must have access to the Atmos repository to build and run this application.
+The access file should placed in your home directory and be named 'atmos-read.credentials'.
 
 Start by cloning this project to your local machine:
 > git clone git@github.com:henrikengstrom/wiredatmos.git
